@@ -188,7 +188,7 @@
   #define E0_SERIAL_RX_PIN      E0_SERIAL_TX_PIN
 
   #define E1_SERIAL_TX_PIN                 P1_17
-  #define E1_SERIAL_RX_PIN      E1_SERIAL_TX_PIN
+  #define Z2_SERIAL_RX_PIN      E1_SERIAL_TX_PIN
 
   // Reduce baud rate to improve software serial reliability
   #define TMC_BAUD_RATE                    19200
